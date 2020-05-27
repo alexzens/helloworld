@@ -7,3 +7,5 @@ alexzens = {
   'name': 'alexzens',
   'age': 29
 }
+
+asd = 12
