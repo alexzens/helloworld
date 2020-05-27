@@ -3,3 +3,5 @@ alexzshl = {
   'name': 'alexzshl',
   'age': 31
 }
+
+name = 'asdasdasdasdasd'
